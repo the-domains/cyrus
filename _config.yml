@@ -23,7 +23,7 @@ color:
     - '#3b71ae'
     - '#fafaff'
   brandStrength: 1
-  lightness: 0.05681146658025682
-  saturation: 0.3569673798047006
-  rhythmicContrast: 0.07856715423986316
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
