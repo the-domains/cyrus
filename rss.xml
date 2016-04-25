@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cyrus Computer Consultants Ltd]]></title>
         <description><![CDATA[Cyrus Computer Consultants Ltd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cyrus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:56:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 01:00:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cyrus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48352f94-def3-4d19-9e1f-05070b30fc1c.png">]]></description>
-            <link>undefined29e08d6e-204e-4c9f-926b-4b8c31c961ee/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b02b9834288973f232b37d9ef4e341133d5dc43a.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/cyrus/29e08d6e-204e-4c9f-926b-4b8c31c961ee/index.html</link>
             <guid isPermaLink="false">29e08d6e-204e-4c9f-926b-4b8c31c961ee</guid>
-            <pubDate>Mon, 25 Apr 2016 00:56:00 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 01:00:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
